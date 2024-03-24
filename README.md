@@ -55,7 +55,7 @@ Git clone https://github.com/gracengure/code_challenge
 Javascript
 
 ## Support and contact details
-
+ github.com/grace-ngure
 ### License
 
 The content of this site is licensed under the MIT license
